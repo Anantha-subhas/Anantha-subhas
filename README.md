@@ -14,7 +14,7 @@ I am a computer student passionate about programming and AI technologies. I enjo
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![python_framework](https://img.shields.io/badge/-flask-F7DF1E?style=flat-square&logo=flask&logoColor=skyblue)
+![python_framework](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-django-F7DF1E?style=flat-square&logo=Django&logoColor=green)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
