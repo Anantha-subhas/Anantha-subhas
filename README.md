@@ -23,3 +23,10 @@ I am a computer student passionate about programming and AI technologies. I enjo
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+
+
+## 🔗 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/anantha-subhas)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/subhasannadurai/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Portfolio&logoColor=white)]()
