@@ -4,7 +4,7 @@
 
 I am a computer student passionate about programming and AI technologies. I enjoy learning new technologies and working on interesting projects.
 
-- 🌱 I’m currently learning **Javascript and React and Data Science**
+- 🌱 I’m currently learning **Python&its framework,Javascript and web frameworks,Datascience and AI&ML**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, and AI**
 - 📫 How to reach me: [click_me](mailto:subhasannadurai333@gmail.com)
