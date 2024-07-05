@@ -13,8 +13,7 @@ I am a computer student passionate about programming and AI technologies. I enjo
 ## 🚀 Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data%20Science-336791?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Pyth&logoColor=orange)
 ![python_framework](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
