@@ -7,7 +7,7 @@ I am a computer student passionate about programming and AI technologies. I enjo
 - 🌱 I’m currently learning **Javascript and React and Data Science**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, and AI**
-- 📫 How to reach me: [anantha@example.com](mailto:subhasannadurai333@gmail.com)
+- 📫 How to reach me: [click_me](mailto:subhasannadurai333@gmail.com)
 
 
 ## 🚀 Languages and Tools:
