@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a computer student, who passionate about programming and AI technologies. I enjoy learning new technologies and working on interesting projects.
+I am a computer engineer, who passionate about programming and AI technologies. I enjoy learning new technologies and working on interesting projects.
 
 - 🌱 I’m currently learning **Python&its framework,Javascript and web frameworks,Datascience and AI&ML**
 - 👯 I’m looking to collaborate on **Open Source Projects**
