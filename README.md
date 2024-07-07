@@ -30,4 +30,7 @@ I am a computer engineer, who passionate about programming and AI technologies. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/anantha-subhas)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/subhasannadurai/)
-[![Portfolio](https://anantha-subhas.github.io/My_Portfolio01/portfolio1/)]()
+# My Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit%20now-brightgreen)](https://anantha-subhas.github.io/My_Portfolio01/portfolio1/)
+
+
